@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalyan Kumar
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning Full Stacks Web Development
+- 🌱 I’m currently learning Full Stacks Web Development in Acciojob
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kkpaladugula @Linkedin.
 
